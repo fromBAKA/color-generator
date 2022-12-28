@@ -1,0 +1,19 @@
+body {
+    transition: 1s;
+}
+
+.card {
+    background: #000;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+}
+
+.rgba {
+    color: #f1f1f1;
+    padding: 20px 30px;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
